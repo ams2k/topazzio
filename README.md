@@ -23,8 +23,8 @@ conexão com o banco de dados (se necessário) e acesso às tela criadas
 com base nas tabelas importadas. Você terá o trabalho de fazer ajustes
 pertinentes, a intenção é minimizar o trabalho.
 
-Topazzio é um projeto totalmente gratuíto, faça as modifições que
-quiser, esta é minha pequena contriuição para a comunidade.
+Topazzio é um projeto totalmente gratuíto. Faça as modifições que
+quiser. Esta é minha pequena contribuição para a comunidade.
 
 
 
