@@ -1,7 +1,10 @@
-# topazzio
+# Topazzio
 Este software desenvolvido em Lazarus/FreePascal, destina-se a criar o 
 projeto completo em Lazarus/Freepascal, com base em tabelas de bancos
-de dados ou de scripts de criação de tabelas.
+de dados ou de scripts de criação de tabelas. 
+Cria projetos multi-plataforma(Linux e Windows), sugiro instalar o seu
+Lazarus via utilitário fpcupdeluxe (https://github.com/LongDirtyAnimAlf/fpcupdeluxe/releases)
+que permite instalar crosscompiler com facilidade.
 
 A intenção é facilitar a criação de telas e classe de acesso aos dados,
 pensando principalmente em quem está iniciando na programação em 
@@ -26,13 +29,14 @@ pertinentes, a intenção é minimizar o trabalho.
 Topazzio é um projeto totalmente gratuíto. Faça as modifições que
 quiser. Esta é minha pequena contribuição para a comunidade.
 
-# arquivos
+# Arquivos
 # modernui.tar.gz - Pacotes de componentes visuais
 - ButtonPlusPackage: Botão com novo visual.
 - ButtonRetroPackage: Botão retrô estilo windows.
 - CheckboxPlusPackage: Checkbox com visual diferente.
 - CircularProgressBarPackage: Progresso circular.
 - DBGridPlusPackage: DBGrid com visual moderno, bordas, gradiente.
+- EditExtPackage: Edit padrão do Topazzio.
 - LabelPlusPackage: Label com ícone, bordas e gradiente.
 - MaskedEditPlusPackage: Edit com máscaras (cpf, cnpj, telefone, cep, data) e valores monetários.
 - PanelPlusPackage: Painel diferentes tipos de bordas e gradiente.
