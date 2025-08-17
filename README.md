@@ -2,7 +2,7 @@
 Este software desenvolvido em Lazarus/FreePascal, destina-se a criar o 
 projeto completo em Lazarus/Freepascal, com base em tabelas de bancos
 de dados ou de scripts de criação de tabelas. 
-Cria projetos multi-plataforma(Linux e Windows), sugiro instalar o seu
+Cria projetos multi-plataforma (Linux e Windows). Sugiro instalar o seu
 Lazarus via utilitário fpcupdeluxe (https://github.com/LongDirtyAnimAlf/fpcupdeluxe/releases)
 que permite instalar crosscompiler com facilidade.
 
@@ -45,7 +45,7 @@ quiser. Esta é minha pequena contribuição para a comunidade.
 - ToggleButtonPlusPackage: Chequebox no estilo toggle como no celular.
 - Pasta Utils: Utilitários para Thread, Imagem (banco de dados), validação de campos, etc.
 
-# topazzio.tar.gz
+# topazzio.zip
 - Criador de projetos.
 
 # windows_libs.tar.gz
