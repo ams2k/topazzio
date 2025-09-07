@@ -48,6 +48,6 @@ quiser. Esta é minha pequena contribuição para a comunidade.
 # topazzio.zip
 - Criador de projetos.
 
-# windows_libs.tar.gz
+# windows_libs.tar
 - DLLs para diversos bancos de dados para uso no windows.
 
