@@ -30,7 +30,7 @@ Topazzio é um projeto totalmente gratuíto. Faça as modifições que
 quiser. Esta é minha pequena contribuição para a comunidade.
 
 # Arquivos
-# modernui.tar.gz - Pacotes de componentes visuais
+# modernui.zip - Pacotes de componentes visuais
 - ButtonPlusPackage: Botão com novo visual.
 - ButtonRetroPackage: Botão retrô estilo windows.
 - CheckboxPlusPackage: Checkbox com visual diferente.
@@ -48,6 +48,6 @@ quiser. Esta é minha pequena contribuição para a comunidade.
 # topazzio.zip
 - Criador de projetos.
 
-# windows_libs.tar
+# windows_libs
 - DLLs para diversos bancos de dados para uso no windows.
 
