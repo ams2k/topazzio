@@ -30,6 +30,9 @@ Topazzio é um projeto totalmente gratuíto. Faça as modifições que
 quiser. Esta é minha pequena contribuição para a comunidade.
 
 # Arquivos
+
+ A pasta bin_linux_windows contém Topazzio compilado para Linux e Windows (x64).
+
 # modernui.zip - Pacotes de componentes visuais
 - ButtonPlusPackage: Botão com novo visual.
 - ButtonRetroPackage: Botão retrô estilo windows.
@@ -46,8 +49,8 @@ quiser. Esta é minha pequena contribuição para a comunidade.
 - Pasta Utils: Utilitários para Thread, Imagem (banco de dados), validação de campos, etc.
 
 # topazzio.zip
-- Criador de projetos.
+- Fontes do Topazzio, criador de projetos Lazarus/Freepascal.
 
 # windows_libs
-- DLLs para diversos bancos de dados para uso no windows.
+- DLLs para diversos bancos de dados para uso no windows, para seus projetos criados com o Topazzio.
 
