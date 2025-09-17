@@ -1,10 +1,9 @@
 # FIREBIRD SQL
 
 Configurações para conexão.
+No arquivo de configuração "dbinfo.ini", o protocol deve ser: <b>firebird</b>
 
-# No Windows
-
-  No arquivo de configuração "server.ini", o protocol deve ser: <b>firebird</b>
+# No Windows  
   
 - Na pasta raiz do seu aplicativo, coloque as seguintes DLLs:
   - fbclient.dll

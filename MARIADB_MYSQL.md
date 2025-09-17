@@ -2,19 +2,18 @@
 
 Configurações para conexão.
 
+MariaDB: No arquivo de configuração "dbinfo.ini", o protocol deve ser: <b>mariadb</b>
+MySQL: No arquivo de configuração "dbinfo.ini", o protocol deve ser: <b>mysql</b>
+
 # No Windows
 
 - MariaDB
-
-    No arquivo de configuração "server.ini", o protocol deve ser: <b>mariadb</b>
   
   - Na pasta raiz do seu aplicativo, coloque as seguintes DLLs:
     - libmariadb.dll
     - sqlite3.dll
   
 - MySQL 
-
-  No arquivo de configuração "server.ini", o protocol deve ser: <b>mysql</b>
   
   - Na pasta raiz do seu aplicativo, coloque as seguintes DLLs:
     - libmysql.dll

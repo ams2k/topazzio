@@ -1,10 +1,9 @@
 # ORACLE SQL
 
 Configurações para conexão.
+No arquivo de configuração "dbinfo.ini", o protocol deve ser: <b>oracle</b>
 
 # No Windows
-
-  No arquivo de configuração "server.ini", o protocol deve ser: <b>oracle</b>
   
 - Na pasta raiz do seu aplicativo, coloque as seguintes DLLs:
   - oci.dll

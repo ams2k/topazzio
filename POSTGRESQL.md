@@ -1,10 +1,9 @@
 # POSTGRESQL
 
 Configurações para conexão.
+No arquivo de configuração "dbinfo.ini", o protocol deve ser: <b>postgresql</b>
 
 # No Windows
-
-  No arquivo de configuração "server.ini", o protocol deve ser: <b>postgresql</b>
   
   - Na pasta raiz do seu aplicativo, coloque as seguintes DLLs:
     - libcrypto-3-x64.dll
