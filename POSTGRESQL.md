@@ -1,6 +1,6 @@
 # POSTGRESQL
 
-Configurações para conexão.
+Configurações para conexão.<br>
 No arquivo de configuração "dbinfo.ini", o protocol deve ser: <b>postgresql</b>
 
 # No Windows

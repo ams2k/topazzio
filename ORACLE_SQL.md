@@ -1,6 +1,6 @@
 # ORACLE SQL
 
-Configurações para conexão.
+Configurações para conexão.<br>
 No arquivo de configuração "dbinfo.ini", o protocol deve ser: <b>oracle</b>
 
 # No Windows

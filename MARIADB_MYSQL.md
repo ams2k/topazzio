@@ -1,8 +1,7 @@
 # MARIADB SERVER e MYSQL SERVER
 
-Configurações para conexão.
-
-MariaDB: No arquivo de configuração "dbinfo.ini", o protocol deve ser: <b>mariadb</b>
+Configurações para conexão.<br><br>
+MariaDB: No arquivo de configuração "dbinfo.ini", o protocol deve ser: <b>mariadb</b><br>
 MySQL: No arquivo de configuração "dbinfo.ini", o protocol deve ser: <b>mysql</b>
 
 # No Windows
