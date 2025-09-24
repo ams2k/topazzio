@@ -17,6 +17,8 @@ de valores monetários, etc.
 Pode-se cria o DBGrid na mesma tela de edição ou em tela separada,
 sendo vinculada automaticamente no form, bem como a classe de dados.
 
+Gera também relatórios simples em Fortes Report CE.
+
 O Topazzio pode compilar o projeto, desde que o Lazarus esteja
 instalado em seu computador.
 
@@ -28,6 +30,8 @@ pertinentes, a intenção é minimizar o trabalho.
 
 Topazzio é um projeto totalmente gratuíto. Faça as modifições que
 quiser. Esta é minha pequena contribuição para a comunidade.
+
+Alterne entre os idiomas Português do Brasil, English e Español.
 
 # Arquivos
 
