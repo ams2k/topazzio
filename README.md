@@ -17,6 +17,12 @@ de valores monetários, etc.
 Pode-se cria o DBGrid na mesma tela de edição ou em tela separada,
 sendo vinculada automaticamente no form, bem como a classe de dados.
 
+Se houver um campo CEP, será criado o botão de pesquisa e a classe
+responsável pela busca na API confirgurada na classe.
+
+Validação de campos também já vem pronta, desde que indicado na
+configuração dos campos na tela de Edição de Tabelas.
+
 Gera também relatórios simples em Fortes Report CE.
 
 O Topazzio pode compilar o projeto, desde que o Lazarus esteja
