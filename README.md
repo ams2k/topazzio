@@ -1,4 +1,5 @@
 # Topazzio
+
 Este software desenvolvido em Lazarus/FreePascal, destina-se a criar o 
 projeto completo em Lazarus/Freepascal, com base em tabelas de bancos
 de dados ou de scripts de criação de tabelas. 
@@ -17,7 +18,7 @@ de valores monetários, etc.
 Pode-se cria o DBGrid na mesma tela de edição ou em tela separada,
 sendo vinculada automaticamente no form, bem como a classe de dados.
 
-Se houver um campo CEP, será criado o botão de pesquisa e a classe
+Se houver um campo para CEP, será criado o botão de pesquisa e a classe
 responsável pela busca na API confirgurada na classe.
 
 Validação de campos também já vem pronta, desde que indicado na
@@ -39,6 +40,12 @@ quiser. Esta é minha pequena contribuição para a comunidade.
 
 Alterne entre os idiomas Português do Brasil, English e Español.
 
+![Pix](pix.png)
+
+Doe qualquer valor, se for o projeto for útil para você.
+
+PIX: ams2kg@gmail.com
+
 # Arquivos
 
  A pasta bin_linux_windows contém Topazzio compilado para Linux e Windows (x64).
@@ -46,6 +53,7 @@ Alterne entre os idiomas Português do Brasil, English e Español.
 # modernui.zip - Pacotes de componentes visuais
 - ButtonPlusPackage: Botão com novo visual.
 - ButtonRetroPackage: Botão retrô estilo windows.
+- ChasePanelPackage: Painel animado (Marquee Frame) com estrelas se movendo ao redor do quadro.
 - CheckboxPlusPackage: Checkbox com visual diferente.
 - CircularProgressBarPackage: Progresso circular.
 - DBGridPlusPackage: DBGrid com visual moderno, bordas, gradiente.
