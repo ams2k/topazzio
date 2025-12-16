@@ -40,9 +40,11 @@ quiser. Esta é minha pequena contribuição para a comunidade.
 
 Alterne entre os idiomas Português do Brasil, English e Español.
 
+O projeto será gerado no mesmo idioma selecionado.
+
 ![Pix](pix.png)
 
-Doe qualquer valor, se for o projeto for útil para você.
+O Topazzio é gratuíto, mas se você quiser, pode colabore com qualquer valor.
 
 PIX: ams2kg@gmail.com
 
