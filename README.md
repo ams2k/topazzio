@@ -44,7 +44,7 @@ O projeto será gerado no mesmo idioma selecionado.
 
 ![Pix](pix.png)
 
-O Topazzio é gratuíto, mas se você quiser, pode colabore com qualquer valor.
+O Topazzio é gratuíto, mas se você quiser, pode doar qualquer valor.
 
 PIX: ams2kg@gmail.com
 
