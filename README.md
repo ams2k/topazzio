@@ -74,3 +74,6 @@ PIX: ams2kg@gmail.com
 # windows_libs
 - DLLs para diversos bancos de dados para uso no windows, para seus projetos criados com o Topazzio.
 
+# Topazzio CHAT
+
+https://github.com/ams2k/topazzio_chat
