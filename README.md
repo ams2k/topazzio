@@ -1,4 +1,7 @@
-# Topazzio
+# Topazzio 3.0
+
+- Crie aplicação uma desktop, com chat.
+- Crie um servidor REST API, facilmente.
 
 Este software desenvolvido em Lazarus/FreePascal, destina-se a criar o 
 projeto completo em Lazarus/Freepascal, com base em tabelas de bancos
