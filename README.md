@@ -1,7 +1,20 @@
 # Topazzio 3.0
 
-- Crie aplicação uma desktop, com chat.
-- Crie um servidor REST API, facilmente.
+Crie aplicação uma desktop, com chat.<br>
+Crie um servidor REST API, facilmente.<br>
+
+Pacotes requeridos em seu Lazarus:
+
+- BGRABitmap
+- BGRAControls
+- CGI
+- DCPcrypt
+- FortesReposrt-CE
+- LNet
+- PowerPDF
+- TDINoteBook
+- ZeosDBO
+- MordernUI
 
 Este software desenvolvido em Lazarus/FreePascal, destina-se a criar o 
 projeto completo em Lazarus/Freepascal, com base em tabelas de bancos
