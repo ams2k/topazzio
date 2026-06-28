@@ -1,7 +1,7 @@
 # Topazzio 3.0
 
-Crie aplicação uma desktop, com chat.<br>
-Crie um servidor REST API, facilmente.<br>
+Crie uma aplicação desktop, com chat.<br>
+Crie um servidor REST API, facilmente, com documentação, Swagger.<br>
 
 Pacotes requeridos em seu Lazarus:
 
