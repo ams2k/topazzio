@@ -14,7 +14,7 @@ Pacotes requeridos em seu Lazarus:
 - PowerPDF
 - TDINoteBook
 - ZeosDBO
-- MordernUI
+- ModernUI
 
 Este software desenvolvido em Lazarus/FreePascal, destina-se a criar o 
 projeto completo em Lazarus/Freepascal, com base em tabelas de bancos
