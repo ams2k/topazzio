@@ -9,7 +9,7 @@ Pacotes requeridos em seu Lazarus:
 - BGRAControls
 - CGI
 - DCPcrypt
-- FortesReposrt-CE
+- FortesReport-CE
 - LNet
 - PowerPDF
 - TDINoteBook
